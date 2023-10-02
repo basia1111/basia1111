@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello, I'm  Basia!
 
-<!--
-**basia1111/basia1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer | Passionate about Coding | Learning and Growing 🌱🌱
 
-Here are some ideas to get you started:
+🌍 Exploring the world of web development with a focus on JavaScript, PHP, Laravel, and possibly Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Constantly curious, always eager to expand my skills, and excited to contribute to open-source projects.
+
+📚 Currently diving deep into JavaScript frameworks like React and Node.js, seeking to create seamless user experiences.
+
+🎯 On a mission to become a well-rounded developer, embracing the power of multiple languages and frameworks.
+
+#FullStackDeveloper #JavaScript #PHP #Laravel #Python #CodeNewbie #OpenSource #WebDev #LearningInProgress
