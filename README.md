@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full-Stack Developer | Passionate about Coding | Learning and Growing 🌱🌱
 
-🌍 Exploring the world of web development with a focus on JavaScript, PHP, Laravel, and possibly Python.
+🌍 Exploring the world of web development with a focus on JavaScript and possibly Python and PHP.
 
 💡 Constantly curious, always eager to expand my skills, and excited to contribute to open-source projects.
 
