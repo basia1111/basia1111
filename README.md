@@ -1,8 +1,5 @@
 <!-- Full-width header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Hello%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20code%20space&descSize=20&descAlignY=60&animation=twinkling"/>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/63a9c170-563a-4e41-9ac1-1675ea9be591" width="250" alt="octocat" style="border-radius: 10px;">
-</div>
 
 <!-- Contact info below header -->
 <div align="center">
@@ -23,11 +20,11 @@ I'm a passionate junior front-end developer based in Kraków, Poland. I thrive o
 
 ## What I'm up to
 
-💻 Building interactive web applications with React and exploring advanced JavaScript patterns
-🚀 Diving into full-stack development with both Node.js and PHP backends
-🐳 Learning Docker containerization and cloud deployment workflows
-🔄 Implementing CI/CD pipelines to streamline development processes
-🔍 Always exploring new technologies that make development more efficient
+💻 Building interactive web applications with React and exploring advanced JavaScript patterns<br>
+🚀 Diving into full-stack development with both Node.js and PHP backends<br>
+🐳 Learning Docker containerization and cloud deployment workflows<br>
+🔄 Implementing CI/CD pipelines to streamline development processes<br>
+🔍 Always exploring new technologies that make development more efficient<br>
 
 
 ## 🛠️ Tech Stack
