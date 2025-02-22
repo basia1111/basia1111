@@ -1,5 +1,8 @@
 <!-- Full-width header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&fontSize=0&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Hello%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20code%20space&descSize=20&descAlignY=60&animation=twinkling"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/63a9c170-563a-4e41-9ac1-1675ea9be591" width="250" alt="octocat" style="border-radius: 10px;">
+</div>
 
 <!-- Contact info below header -->
 <div align="center">
