@@ -21,10 +21,11 @@ I'm a passionate junior front-end developer based in Kraków, Poland. I thrive o
 ## What I'm up to
 
 💻 Building interactive web applications with React and exploring advanced JavaScript patterns<br>
+🔍Mastering TypeScript<bt>
 🚀 Diving into full-stack development with both Node.js and PHP backends<br>
-🐳 Learning Docker containerization and cloud deployment workflows<br>
-🔄 Implementing CI/CD pipelines to streamline development processes<br>
-🔍 Always exploring new technologies that make development more efficient<br>
+🐳 Learning more about Docker containerization and cloud deployment workflows<br>
+
+ Always exploring new technologies that make development more efficient<br>
 
 
 ## 🛠️ Tech Stack
